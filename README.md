@@ -1,2 +1,2 @@
 # Diplomado-
-Codigos en python de Ciencia de Datos 
+Codigos de ejercicios y tareas sobre Ciencia de Datos 
